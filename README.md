@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
+![loser-eternity's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loser-eternity&layout=compact&hide_border=true&langs_count=10)
 <!--
 **loser-eternity/loser-eternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=loser-eternity"/>
