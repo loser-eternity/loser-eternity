@@ -1,6 +1,11 @@
 # Hi there 👋
 
-![loser-eternity's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loser-eternity&layout=compact&hide_border=true&langs_count=10)<img src="https://github-readme-stats.vercel.app/api?username=loser-eternity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=loser-eternity"/> ![loser-eternity's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loser-eternity&layout=compact&hide_border=true&langs_count=10)
+
+- 🚀 I use daily: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+- 💻 I work using:
+- ❤️📦 The frameworks I like include:
+- ❤️😜 The programming languages I like include：![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 <!--
 **loser-eternity/loser-eternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
